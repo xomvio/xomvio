@@ -59,15 +59,15 @@ I'm a passionate developer with a strong foundation in technology and communicat
 
 ### 📊 GitHub Stats
 
-![Yasir's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Yasir's GitHub stats](https://github-readme-stats.vercel.app/api?username=xomvio&show_icons=true&theme=radical)
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=xomvio&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🔥 Streak Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xomvio&theme=dark)](https://git.io/streak-stats)
 
 ---
 
