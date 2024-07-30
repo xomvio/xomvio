@@ -19,7 +19,7 @@ I'm a passionate developer with a strong foundation in technology and communicat
     - [viobase](https://github.com/xomvio/viobase): An easy-to-use and easy-to-understand NoSQL database written in Rust
 
 - **.NET**
-  - I don't like it that much anymore. Whatever, I believe dotnet is living.
+  - I don't use it that much anymore. But I believe dotnet is living.
     - [discord-bot-website](https://github.com/xomvio/discord-bot-website): Developed Bitguard's web interface to present a Discord bot and provide Discord server administrators with a user-friendly configuration tool. Unfortunately, the project was canceled after publication due to unsuccessful marketing, but the web side is published on GitHub.
 
 - **Linux**
