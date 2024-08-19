@@ -23,7 +23,7 @@ I'm a passionate developer with a strong foundation in technology and communicat
     - [discord-bot-website](https://github.com/xomvio/discord-bot-website): Developed Bitguard's web interface to present a Discord bot and provide Discord server administrators with a user-friendly configuration tool. Unfortunately, the project was canceled after publication due to unsuccessful marketing, but the web side is published on GitHub.
 
 - **Linux**
-  - Experienced in using Linux servers and Nginx for server setups, security, and performance optimization. (i use arch btw)
+  - Experienced in using Linux servers and Nginx for server setups, security, and performance optimization.
 
 ---
 
