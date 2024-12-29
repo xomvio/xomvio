@@ -35,7 +35,7 @@ I'm a passionate developer with a strong foundation in technology and communicat
 ---
 
 ### 📜 Certificates
-
+- **Responsive Web Design:** freeCodeCamp, 2024
 - **Python:** Ege University, 2023
 - **Effective Communication Techniques:** Istanbul Rumeli University, 2023
 
