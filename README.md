@@ -1,16 +1,16 @@
-# Hi there, I'm Yasir Aksoz 👋
+# Hi there, I'm Yasir 👋
 
-## Developer | Web Programming Graduate | Journalism Student
+## Web Programming Graduate | Journalism Student
 
 ---
 
 ### About Me
 
-I'm in both technology and communication. I graduated from high school with a focus on Web Programming and am currently studying Journalism at Ege University. After years of developing as a hobby, now I want to make it my career.
+I'm into both technology and communication. I graduated from high school with a focus on Web Programming and am currently studying Journalism at Ege University. After years of developing as a hobby, now I want to make it my career.
 
 ---
 
-### 🛠 Skills
+### 🛠 I do
 
 - **Rust**
   - Love optimizing system performance, working on memory safety, and concurrency.
@@ -25,13 +25,6 @@ I'm in both technology and communication. I graduated from high school with a fo
 
 - **Linux**
   - Experienced in using Linux servers and Nginx for server setups, security, and performance optimization.
-
----
-
-### 🎓 Education
-
-- **Web Programming:** Istanbul Ticaret Odası MTAL (high school) (2012-2016)
-- **Journalism:** Ege University (2020-present)
 
 ---
 
