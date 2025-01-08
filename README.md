@@ -1,7 +1,7 @@
 # Hi there, I'm Yasir 👋
 
 ## Web Programming Graduate | Journalism Student
-
+[![Grind Compliant](https://img.shields.io/badge/Grind-Compliant-blue)](https://github.com/grindhousedev/grindlines)
 ---
 
 ### About Me
