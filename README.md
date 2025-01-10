@@ -1,6 +1,4 @@
 # Hi there, I'm Yasir 👋
-
-## Web Programming Graduate | Journalism Student
 [![Grind Compliant](https://img.shields.io/badge/Grind-Compliant-blue)](https://github.com/grindhousedev/grindlines)
 ---
 
@@ -29,21 +27,6 @@ I'm into both technology and communication. I graduated from high school with a 
 
 ---
 
-### 📜 Certificates
-- **Responsive Web Design:** freeCodeCamp, 2024
-- **Python:** Ege University, 2023
-- **Effective Communication Techniques:** Istanbul Rumeli University, 2023
-
----
-
-### 📫 Contact Me
-
-- **Email:** [xomvio@proton.me](mailto:xomvio@proton.me)
-- **LinkedIn:** [Yasir Aksoz](https://www.linkedin.com/in/yasir-aksoz-62424b2a0)
-- **City:** İstanbul
-
----
-
 ### 🚀 Interests
 
 - Low-Level Programming
@@ -52,17 +35,11 @@ I'm into both technology and communication. I graduated from high school with a 
 
 ---
 
-### 📊 GitHub Stats
+### 📫 Contact Me
 
-![Yasir's GitHub stats](https://github-readme-stats.vercel.app/api?username=xomvio&show_icons=true&theme=radical)
-
-### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=xomvio&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-### 🔥 Streak Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xomvio&theme=dark)](https://git.io/streak-stats)
+- **Email:** [xomvio@proton.me](mailto:xomvio@proton.me)
+- **LinkedIn:** [Yasir Aksoz](https://www.linkedin.com/in/yasir-aksoz)
+- **City:** İstanbul
 
 ---
 
