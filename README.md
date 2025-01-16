@@ -13,6 +13,7 @@ I'm into both technology and communication. I graduated from high school with a 
 - **Rust**
   - Love optimizing system performance, working on memory safety, and concurrency.
   - Projects:
+    - [dinle](https://github.com/xomvio/dinle): TUI chat app via yggdrasil network.
     - [stirn](https://github.com/xomvio/stirn): A web server prototype designed host multiple website and real-time data share across its ecosystem.
     - [watermarker](https://github.com/xomvio/watermarker): Watermarker is a CLI tool for adding watermark to images.
     - [xom_json](https://github.com/xomvio/xom_json): A JSON parser written in Rust
