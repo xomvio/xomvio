@@ -38,7 +38,7 @@ I'm into both technology and communication. I graduated from high school with a 
 
 - **Email:** [xomvio@proton.me](mailto:xomvio@proton.me)
 - **LinkedIn:** [Yasir Aksoz](https://www.linkedin.com/in/yasir-aksoz)
-- **City:** İstanbul
+- **City:** İzmir
 
 ---
 
