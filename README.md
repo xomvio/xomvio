@@ -1,46 +1,43 @@
-# Hi there, I'm Yasir 👋
+# 🦀 Hi, I'm Yasir — Rust Developer with a Passion for Systems Programming
 [![Grind Compliant](https://img.shields.io/badge/Grind-Compliant-blue)](https://github.com/grindhousedev/grindlines)
+![Linux](https://img.shields.io/badge/Linux-Arch-blue)
 
-### About Me
+## 🛠 What I Build
+### ⚙️ Rust Projects
+I focus on **performance**, **memory safety**, and **networked applications** — mostly in Rust.
+- [`blossom`](https://github.com/xomvio/blossom)  
+  End-to-end encrypted chat over the Yggdrasil Network.  
+  > Terminal UI + asymmetric encryption + P2P transport
 
-I'm into both technology and communication. I graduated from high school with a focus on Web Programming and am currently studying Journalism at Ege University. After years of developing as a hobby, now I want to make it my career.
+- [`stirn`](https://github.com/xomvio/stirn)  
+  A webserver prototype capable of hosting multiple apps and sharing real-time state.
+  > Built from scratch, single-binary, async.
 
----
+- [`watermarker`](https://github.com/xomvio/watermarker)  
+  Simple CLI tool to batch watermark images efficiently.  
+  > Image processing + command-line ergonomics
 
-### 🛠 I do
+- [`xom_json`](https://github.com/xomvio/xom_json)  
+  A barebones JSON parser written in pure Rust.  
+  > Zero dependencies, full manual lexing/parsing
 
-- **Rust**
-  - Love optimizing system performance, working on memory safety, and concurrency.
-  - Projects:
-    - [blossom](https://github.com/xomvio/blossom): Secure decentralized chat via yggdrasil network.
-    - [stirn](https://github.com/xomvio/stirn): A web server prototype designed host multiple website and real-time data share across its ecosystem.
-    - [watermarker](https://github.com/xomvio/watermarker): Watermarker is a CLI tool for adding watermark to images.
-    - [xom_json](https://github.com/xomvio/xom_json): A JSON parser written in Rust
+### 🖥️ Also Touched .NET
+While I mostly work in Rust and Linux now, I’ve previously built full-stack tools in .NET.
 
-- **.NET**
-  - I don't use it that much anymore. But I believe it is living.
-    - [discord-bot-website](https://github.com/xomvio/discord-bot-website): Developed Bitguard's web interface to present a Discord bot and provide Discord server administrators with a user-friendly configuration tool. Unfortunately, the project was canceled after publication due to unsuccessful marketing, but the web side is published on GitHub.
+- [`discord-bot-website`](https://github.com/xomvio/discord-bot-website)  
+  Web interface for a Discord bot — including server-side config and auth.  
+  > Static UI + bot API integration  
+  *(Note: project is archived but remains as reference.)*
 
-- **Linux**
-  - a little of this, a little of that.
+## 🧠 Interests
 
----
+- 🧵 Concurrency
+- 🧬 Protocol design
+- 📦 Systems-level tooling
+- 📡 Decentralized communication
 
-### 🚀 Interests
+I'm always open for some talk. Feel free to reach.
 
-- Low-Level
-- Performance
-- Web
 
----
 
-### 📫 Contact Me
-
-- **Email:** [xomvio@proton.me](mailto:xomvio@proton.me)
-- **LinkedIn:** [Yasir Aksoz](https://www.linkedin.com/in/yasir-aksoz)
-- **City:** İzmir
-
----
-
-Feel free to reach out if you want to collaborate on projects or just have a chat about technology and development!
-
+![xomvio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xomvio&show_icons=true&theme=tokyonight)
