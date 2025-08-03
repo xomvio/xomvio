@@ -1,6 +1,5 @@
 # 🦀 Hi, I'm Yasir — Rust Developer with a Passion for Systems Programming
 [![Grind Compliant](https://img.shields.io/badge/Grind-Compliant-blue)](https://github.com/grindhousedev/grindlines)
-![Linux](https://img.shields.io/badge/Linux-Arch-blue)
 
 ## 🛠 What I Build
 ### ⚙️ Rust Projects
