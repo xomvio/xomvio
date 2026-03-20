@@ -3,7 +3,7 @@ Self-taught Rust developer focused on systems programming, networked application
 
 ## Projects
 - [`blossom`](https://github.com/xomvio/blossom)  
-  > Decentralized P2P TUI chat over the Yggdrasil network. Disposable node identities per session, E2E encrypted transport.
+  Decentralized P2P TUI chat over the Yggdrasil network. Disposable node identities per session, E2E encrypted transport.
 
 - [`watermarker`](https://github.com/xomvio/watermarker)  
   Batch image watermarking CLI — async, multi-format, minimal dependencies. Available on AUR.
