@@ -3,12 +3,10 @@ Self-taught Rust developer focused on systems programming, networked application
 
 ## Projects
 - [`blossom`](https://github.com/xomvio/blossom)  
-  End-to-end encrypted chat over the Yggdrasil Network.  
-  > Terminal UI + asymmetric encryption + P2P transport
+  > Decentralized P2P TUI chat over the Yggdrasil network. Disposable node identities per session, E2E encrypted transport.
 
 - [`watermarker`](https://github.com/xomvio/watermarker)  
-  Simple CLI tool to batch watermark images efficiently.  
-  > Image processing + command-line ergonomics
+  Batch image watermarking CLI — async, multi-format, minimal dependencies. Available on AUR.
 
 ## Focus Areas
 - Async Rust, networking, protocol design
