@@ -22,4 +22,4 @@ I'm always open for some talk. Feel free to reach.
 ## Contact
 xomvio@proton.me
 
-Open to freelance work.
+Open for work.
